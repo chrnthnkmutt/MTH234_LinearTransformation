@@ -4,30 +4,28 @@
 
 ## Introduction
 
-This repository is being used for visualizing and calculating on Linear Regression with specifically determined on the part of using Eigendecomposition (both Eigenvalues and Eigenvectors) for calculating and visualizing the correlation, variances, covariances, and eigenvectors direction of ....
+This repository is being used for visualizing and calculating on Linear Regression with specifically determined on the part of using Eigendecomposition (both Eigenvalues and Eigenvectors) for calculating and visualizing the correlation, variances, covariances, and eigenvectors of correlation-distributed graph. In terms of making this repository, I needed to have some preliminaries or pre-requisited knowledge for contribute on this final project repository for MTH234: Linear Algebra course, which conducted by Assistant Professor Ph.D. Songpon Sriwongsa from Department of Mathematics, King Mongkut's University of Technology Thonburi (KMUTT).
 
 ## Requirements
 
 This repository is used in Python 3.11.5 in Jupyter Notebook framework with some significant libraries or packages that we need to additionally install in the code editor/PATH environment, which are:
 1. Pandas
 2. Matplotlib
-3. Tensorflow Keras
-4. Sklearn (Scikit Learn)
-5. Seaborn
-6. Numpy
+3. Sklearn (Scikit Learn)
+4. Seaborn
+5. Numpy
 
 ## What's inside the repository
 
-In this repository, we include lots of practices datasets even from books or external data from UCI (UC Irvine Machine Learning Repository) and Kaggle datasets. Additionally, we would like to drop the references below here and include the csv file inside our repository to look the data inside the datasets easily. Also, we put the code that we have done inside this repo to look up on the functions that we have use to train in Time Series prediction.
+In this repository, we use one sample dataset from UCI (UC Irvine Machine Learning Repository) to create the correlation/covariance graph and other types of graphs for showing the distribution of the stock market returns values between two main stocks, which is DAX and FTSE100, by using Jupyter Notebook, with Python 3.11.5 and installing some library packages as listed above.
 
 ## References
-* Peixeiro, M. (2022). Time series forecasting in Python. Manning Publications Co. [Click Here](https://www.oreilly.com/library/view/time-series-forecasting/9781617299889/)
-* Yadav, A. (2021, August 19). NSE-TATAGLOBAL stock price prediction. Kaggle. [DOI](https://www.kaggle.com/code/ankiii07/nse-tataglobal-stock-price-prediction)
+* Akbilgic, Oguz. (2013). ISTANBUL STOCK EXCHANGE. UCI Machine Learning Repository. [Click Here](https://archive-beta.ics.uci.edu/ml/datasets/istanbul+stock+exchange)
 
 ## Acknowledgement
 I would like to send the gratitude to following advisors who take care or giving an advice for making repository, which are:
-- Asst.Prof. Ph.D. Peerapon Siripongwuttichai
-- Assoc.Prof. Ph.D. Unchalisa Taetrakul
+- Asst. Prof. Ph.D. Songpon Sriwongsa
 - Ph.D. Sansiri Tarnpradab
-- Ph.D. Piyanit Vepulanont
-- Sutthawee Weerapong
+- Asst. Prof. Ph.D. Stanislas Grare
+- Podsawee Wannatham
+- Sirisa Kornnawawat
