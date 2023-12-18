@@ -1,8 +1,10 @@
-# The Python Visualization Repository for Something
+# The Jupyter Repository for Linear Transformation Practices from Market Returns
 
 ![](banner.png)
 
-To GitHub users, welcome to our repository for visualizing time series forcasting by using Python/Jupyter Notebook for making the collection of codes for using in Time Series Forecasting practices. This repository is the collaboration between Charunthon Limseelo (Microsoft Learn Student Ambassadors) and Sirisa Kornnawawat (Google Developer Student Club), to train or have a practice for senior project of 4th year in Vistula University, Poland.
+## Introduction
+
+This repository is being used for visualizing and calculating on Linear Regression with specifically determined on the part of using Eigendecomposition (both Eigenvalues and Eigenvectors) for calculating and visualizing the correlation, variances, covariances, and eigenvectors direction of ....
 
 ## Requirements
 
