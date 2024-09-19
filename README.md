@@ -28,4 +28,3 @@ I would like to send the gratitude to following advisors who take care or giving
 - Ph.D. Sansiri Tarnpradab
 - Asst. Prof. Ph.D. Stanislas Grare
 - Podsawee Wannatham
-- Sirisa Kornnawawat
